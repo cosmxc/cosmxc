@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Hi there, I'm Lia - aka cosmic ![visitors](https://visitor-badge.glitch.me/badge?page_id=cosmxc.cosmxc)
 
-<!--
-**cosmxc/cosmxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💁‍♀️ I’m 16 years old and a senior in high school
+- 🤖 Developer of a Discord Bot written in Node.js
+- 💻 I’m currently learning Python, React.js and C#
+- 📚 Studiying IT with Mobile App & Web Development
+- 🎶 I love playing instruments such as guitar and drums
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌏 My Top Languages
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmxc&layout=compact&theme=gotham&hide_border=false&count_private=true"/> 
+
+### 📊My Github Statistics
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cosmxc&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=gotham"/> 
