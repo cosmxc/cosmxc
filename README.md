@@ -6,6 +6,9 @@
 - 📚 Studiying IT with Mobile App & Web Development
 - 🎶 I love playing instruments such as guitar and drums
 
+### Check out my portfolio! -> https://cosmicdev.xyz/
+
+
 ---
 
 ### 🌏 My Top Languages
