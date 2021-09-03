@@ -3,7 +3,7 @@
 ### Hello there! 👋
 My name is Lia. I am a 16-year-old student currently in senior high school and living somewhere on Earth.
 <br><br>
-I started developing projects a few months ago and now studying IT with Mobile App & Web Development. I am also a musician, and I really love playing instruments such as guitar and drums.
+I started developing projects a few months ago and now studying IT with Mobile App & Web Development. I am also a musician, and I really love playing instruments such as guitar and drums. If you're want more detailed information about me, check out my website!
 
 - Website: [cosmicdev.xyz](https://cosmicdev.xyz/)
 - Twitter: [@cosmxccc](https://twitter.com/cosmxccc)
