@@ -1,18 +1,16 @@
-## 👋 Hi there, I'm Lia - aka cosmic ![visitors](https://visitor-badge.glitch.me/badge?page_id=cosmxc.cosmxc)
+<img src="https://discord.c99.nl/widget/theme-4/778399294125899836.png">
 
-- 💁‍♀️ I’m 16 years old and a senior in high school
-- 🤖 Developer of a Discord Bot written in Node.js
-- 💻 I’m currently learning Python, React.js and C#
-- 📚 Studiying IT with Mobile App & Web Development
-- 🎶 I love playing instruments such as guitar and drums
+### Hello there! 👋
+My name is Lia. I am a 16-year-old student currently in senior high school and living somewhere on Earth.
+<br><br>
+I started developing projects a few months ago and now studying IT with Mobile App & Web Development. I am also a musician, and I really love playing instruments such as guitar and drums.
 
-### Check out my portfolio! -> https://cosmicdev.xyz/
-
+- Website: [cosmicdev.xyz](https://cosmicdev.xyz/)
+- Twitter: [@cosmxccc](https://twitter.com/cosmxccc)
 
 ---
 
-### 🌏 My Top Languages
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmxc&layout=compact&theme=gotham&hide_border=false&count_private=true"/> 
-
-### 📊My Github Statistics
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cosmxc&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=gotham"/> 
+<a href="https://github.com/cosmxc">
+  <img src="https://github-readme-stats.vercel.app/api?username=cosmxc&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=87b4bf&text_color=FFFFFF&icon_color=87b4bf">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmxc&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=87b4bf">
+</a>
