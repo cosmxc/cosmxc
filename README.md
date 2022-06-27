@@ -6,7 +6,6 @@ My name is Lia. I am a 17-year-old student currently in senior high school and I
 I started developing projects a few months ago and now studying IT with Mobile App & Web Development. I am also a musician, and I really love playing instruments such as guitar and drums. If you're want more detailed information about me, check out my website!
 
 - Website: [cosmicdev.xyz](https://cosmicdev.xyz/)
-- Twitter: [@li_yuuhh](https://twitter.com/li_yuuhh)
 
 ---
 
