@@ -1,11 +1,11 @@
 <img src="https://discord.c99.nl/widget/theme-4/778399294125899836.png">
 
 ### Hello there! 👋
-My name is Lia. I am a 18-year-old student currently in senior high school and I live somewhere on Earth.
+My name is Lorainne. I am a 19-year-old student currently in senior high school and I live somewhere on Earth.
 <br><br>
 I started developing projects a few months ago and now studying IT with Mobile App & Web Development. I am also a musician, and I really love playing instruments such as guitar and drums. If you're want more detailed information about me, check out my website!
 
-- Website: [lorainnee.com](https://lorainnee.com/)
+- Website: [loreyyn.com](https://loreyyn.com/)
 
 ---
 
